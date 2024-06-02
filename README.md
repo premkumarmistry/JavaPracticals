@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/Language-Java-blue?logo=java)
 ![MIT License](https://img.shields.io/github/license/premkumarmistry/JavaPracticals)
 
-## Introductionn
+## Introduction
 
 Welcome to the Java Practical Exercises repository! This collection of practical exercises and examples serves as a learning resource for Java programming enthusiasts. Whether you're a beginner looking to grasp the basics or an experienced developer aiming to sharpen your skills, these exercises cover a wide range of Java concepts.
 
