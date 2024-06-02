@@ -9,7 +9,7 @@
 
 Welcome to the Java Practical Exercises repository! This collection of practical exercises and examples serves as a learning resource for Java programming enthusiasts. Whether you're a beginner looking to grasp the basics or an experienced developer aiming to sharpen your skills, these exercises cover a wide range of Java concepts.
 
-## Features
+## Feature
 
 - 🧩 **Comprehensive Exercises**: Explore a variety of Java exercises covering topics such as object-oriented programming, data structures, algorithms, and more.
 - 📂 **Organized Structure**: Exercises are organized into directories or packages based on different topics, making it easy to navigate and locate specific exercises.
