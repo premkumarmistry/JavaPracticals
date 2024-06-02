@@ -1,6 +1,6 @@
 
 
-# 📚 Java Practical Exercises
+# 📚 Java Practical Exercise
 
 ![Java](https://img.shields.io/badge/Language-Java-blue?logo=java)
 ![MIT License](https://img.shields.io/github/license/premkumarmistry/JavaPracticals)
